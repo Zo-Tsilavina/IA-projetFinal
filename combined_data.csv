@@ -1,0 +1,7 @@
+Country_x,City,AQI Value,AQI Category,CO AQI Value,CO AQI Category,Ozone AQI Value,Ozone AQI Category,NO2 AQI Value,NO2 AQI Category,PM2.5 AQI Value,PM2.5 AQI Category,newCountry,Country_y,Population,Density,Urbanization,Average Income,Education Level
+United States of America,Los Angeles,116,Unhealthy for Sensitive Groups,3,Good,19,Good,25,Good,116,Unhealthy for Sensitive Groups,United States of America,USA,10039107,3276,89,60000,32
+Japan,Tokyo,79,Moderate,1,Good,28,Good,17,Good,79,Moderate,Japan,Japan,13929286,6169,100,55000,37
+Madagascar,Antananarivo,28,Good,1,Good,22,Good,0,Good,28,Good,Madagascar,Madagascar,1391433,3097,69,1000,10
+Peru,Lima,110,Unhealthy for Sensitive Groups,4,Good,16,Good,9,Good,110,Unhealthy for Sensitive Groups,Peru,Peru,9674755,3220,81,4500,15
+Kenya,Nairobi,107,Unhealthy for Sensitive Groups,2,Good,15,Good,2,Good,107,Unhealthy for Sensitive Groups,Kenya,Kenya,4397073,6000,61,1500,12
+United States of America,Paris,72,Moderate,1,Good,24,Good,3,Good,72,Moderate,United States of America,France,2140526,21383,98,45000,29
